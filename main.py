@@ -9,7 +9,7 @@ engine = pyttsx3.init()
 
 # Gemini API endpoint and your API key
 GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
-API_KEY = "AIzaSyAh_3-jQoSh7EIDxHBw7_lJDMmt4Sh4D00"  # Replace with your actual Gemini API key
+API_KEY = "XYZ"  # Replace with your actual Gemini API key
 
 # Memory to store past conversations
 memory = []
